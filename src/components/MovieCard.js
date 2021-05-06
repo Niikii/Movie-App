@@ -7,8 +7,8 @@ const MovieCard = ({ movie }) => {
     <div className="movie-container">
       <img className="poster" src={movie.Poster} />
       <div className="movie-info">
-        <p>Title: {movie.Title}</p>
-        <p>Year: {movie.Year}</p>
+        <spam>Title: {movie.Title}</spam>
+        <spam>Year: {movie.Year}</spam>
       </div>
     </div>
   );
