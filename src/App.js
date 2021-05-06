@@ -3,7 +3,6 @@ import "./Styles.css";
 import Header from "./components/Header";
 import FetchedMovies from "./components/FetchedMovies";
 import { Helmet } from "react-helmet";
-import Popular from "./components/Popular";
 import AlertBox from "./components/AlertBox";
 
 function App() {
